@@ -16,7 +16,7 @@
 
 The `batchCope` method retrieves the `ids` parameter from user input and directly concatenates it into a raw SQL query without any validation or parameter binding. This allows an attacker to inject arbitrary SQL code through the `ids` parameter, potentially leading to unauthorized access, data leakage, or modification of database contents.
 
-https://github.com/xiaoyangsec/foxcms_sql_injection/blob/main/image-20250513161945913.png
+![image](https://github.com/xiaoyangsec/foxcms_sql_injection/blob/main/image-20250513161945913.png)
 
 **Payload used:**
 
@@ -42,8 +42,8 @@ ids=1)+or+(select database())='foxcms'--+
 
 Example：
 
-https://github.com/xiaoyangsec/foxcms_sql_injection/blob/main/image-20250513161636029.png
+![image](https://github.com/xiaoyangsec/foxcms_sql_injection/blob/main/image-20250513161636029.png)
 
-https://github.com/xiaoyangsec/foxcms_sql_injection/blob/main/image-20250513161636079.png
+![image](https://github.com/xiaoyangsec/foxcms_sql_injection/blob/main/image-20250513161636079.png)
 
-https://github.com/xiaoyangsec/foxcms_sql_injection/blob/main/image-20250513161802423.png
+![image](https://github.com/xiaoyangsec/foxcms_sql_injection/blob/main/image-20250513161802423.png)
