@@ -44,6 +44,6 @@ Example：
 
 ![image](https://github.com/xiaoyangsec/foxcms_sql_injection/blob/main/image-20250513161636029.png)
 
-![image](https://github.com/xiaoyangsec/foxcms_sql_injection/blob/main/image-20250513161636079.png)
+![image](https://github.com/xiaoyangsec/foxcms_sql_injection/blob/main/image-20250513161700879.png)
 
 ![image](https://github.com/xiaoyangsec/foxcms_sql_injection/blob/main/image-20250513161802423.png)
