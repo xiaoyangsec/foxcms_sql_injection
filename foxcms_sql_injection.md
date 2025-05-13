@@ -1,6 +1,6 @@
 # SQL Injection Vulnerability in FoxCMS
 
-**Version: FoxCMS v1.25**
+**Version: FoxCMS v1.2.5**
 
 **Google Dork: N/A**
 
