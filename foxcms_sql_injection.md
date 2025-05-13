@@ -47,3 +47,6 @@ Example：
 ![image](https://github.com/xiaoyangsec/foxcms_sql_injection/blob/main/image-20250513161700879.png)
 
 ![image](https://github.com/xiaoyangsec/foxcms_sql_injection/blob/main/image-20250513161802423.png)
+
+![image](https://github.com/user-attachments/assets/3dd27721-6a16-4c1b-824b-ca91f01184c1)
+
